@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <title>File: <%= fileName %></title>
+    <style>
+        table, th, td {
+            border: 1px solid #aaa;
+        }
+    </style>
+</head>
+<body>
+<h1 style="text-align: center">HTML preview of the file: <%= fileName %></h1>
+<table style="width: 100%">
+    <tr>
+        <th>Key:</th>
+        <th>Text:</th>
+    </tr>
+    <% for (let key in strings) { %>
+        <tr>
+            <td><%= key %></td>
+            <td><span id="string_preview_id_<%= strings[key].id %>"><%= strings[key].text %></span></td>
+        </tr>
+    <% } %>
+</table>
+</body>
+</html>

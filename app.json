@@ -1,0 +1,18 @@
+{
+  "name": "Getting Started on Crowdin Apps",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/MikolayKorniat/Getting-Started-on-Crowdin-Apps",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": [
+    "crowdin",
+    "node",
+    "express",
+    "heroku"
+  ],
+  "image": "heroku/nodejs",
+  "env": {
+    "HEROKU_APP_NAME": {
+      "required": true
+    }
+  }
+}
