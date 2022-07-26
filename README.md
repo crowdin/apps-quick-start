@@ -7,7 +7,7 @@ Join the growing localization management platform! Build apps for all the teams 
 <div align="center">
 
 [**`Home`**](https://crowdin.com) &nbsp;|&nbsp;
-[**`Quick Start`**](https://developer.crowdin.com/quick-start) &nbsp;|&nbsp;
+[**`Quick Start`**](https://developer.crowdin.com/crowdin-apps-quick-start) &nbsp;|&nbsp;
 [**`Developers Portal`**](https://developers.crowdin.com/)
 
 </div>
@@ -44,7 +44,7 @@ or
 For more information about using Node.js on Heroku, see these Dev Center articles:
 
 - [Crowdin Developers Portal](https://developers.crowdin.com/)
-- [Quick Start](https://developer.crowdin.com/quick-start)
+- [Quick Start](https://developer.crowdin.com/crowdin-apps-quick-start)
 - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
