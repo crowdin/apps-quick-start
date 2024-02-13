@@ -14,7 +14,7 @@ Join the growing localization management platform! Build apps for all the teams 
 
 [**`Home`**](https://crowdin.com) &nbsp;|&nbsp;
 [**`Quick Start`**](https://developer.crowdin.com/crowdin-apps-quick-start) &nbsp;|&nbsp;
-[**`Developers Portal`**](https://developers.crowdin.com/)
+[**`Developer Portal`**](https://developer.crowdin.com/)
 
 </div>
 
